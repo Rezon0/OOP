@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.runtimeconfig.json
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.genruntimeconfig.cache
+\\Mac\Home\Documents\Лабы\ООП\курсач\kursachv6\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll
